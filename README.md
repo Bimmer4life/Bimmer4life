@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bimmer4life
+- 👀 I’m interested in anything technical
+- 🌱 I’m currently learning Python and C#
